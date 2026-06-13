@@ -6,9 +6,13 @@
 ### Computer Engineering Student | Web Developer | AI/ML Projects & Startup Development
 
 🚀 Building web applications, startup products, and digital experiences
+
 🤖 Exploring AI/ML, Computer Vision, and Assistive Technologies
+
 🛰️ Contributing to CubeSat, Space Technology, and Robotics Projects
+
 ♿ Developing accessibility-focused solutions like MotionQ
+
 🎮 Creating interactive software experiences through projects like Code of Silence
 
 ## Featured Projects
