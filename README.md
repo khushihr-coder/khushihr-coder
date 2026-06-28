@@ -2,188 +2,305 @@
   <img src="github-header-banner.png" alt="Khushi Rathod Banner" />
 </p>
 
-# Hi, I'm Khushi Rathod 👋
+<h1 align="center">Hi 👋, I'm Khushi Rathod</h1>
 
-### Applied AI Engineer • AI/ML Researcher • Full-Stack Developer
+<h3 align="center">
+Applied AI Engineer • AI/ML Researcher • Full-Stack Developer
+</h3>
 
-I'm a second-year Computer Engineering student at **K. J. Somaiya Institute of Technology (KJSIT)** passionate about building intelligent systems that solve real-world problems.
-
-My work lies at the intersection of **Artificial Intelligence, Computer Vision, Remote Sensing, Multi-Agent Systems, and Full-Stack Engineering**, where I transform research ideas into practical applications with measurable impact.
-
-Currently, I'm:
-
-* 🌾 Conducting AI research on satellite imagery for agricultural intelligence at **The AgriOrbit Technology**
-* 📄 Working on a research paper on **Deep Learning for Paddy Stubble Burning Detection using Satellite Imagery**
-* 🤖 Building intelligent AI systems using Computer Vision, NLP, LLMs, and Predictive Analytics
-* 🚀 Exploring opportunities in AI/ML Research, Applied AI, and Full-Stack Engineering
+<p align="center">
+Building intelligent systems that combine Artificial Intelligence, Computer Vision,
+Remote Sensing, Full-Stack Engineering, and Human-Centered Technology.
+</p>
 
 ---
 
-# Areas of Interest
+## 👩‍💻 About Me
 
-🧠 Artificial Intelligence
+I'm a Computer Engineering student at K. J. Somaiya Institute of Technology (KJSIT), Mumbai, passionate about building AI systems that solve meaningful real-world problems.
 
-🤖 Machine Learning & Deep Learning
+My interests span Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models, Remote Sensing, Multi-Agent Systems, Healthcare AI, and Intelligent Web Applications.
 
-👁️ Computer Vision
+I enjoy taking ideas from research to production—designing datasets, experimenting with models, building scalable applications, and transforming them into products that people can actually use.
 
-🛰️ Remote Sensing & Geospatial AI
-
-💬 Natural Language Processing
-
-🌍 Multi-Agent AI Systems
-
-📈 Predictive Analytics & Time-Series Forecasting
-
-🌐 Full-Stack Development
+Currently, I'm working on AI research in satellite imagery and agricultural intelligence while actively building projects across healthcare, accessibility, fintech, blockchain, and intelligent automation.
 
 ---
 
-# Tech Stack
+# 🚀 What I'm Currently Working On
+
+🛰 AI Research for Satellite Remote Sensing & Precision Agriculture
+
+📄 Research Paper on Deep Learning for Paddy Stubble Burning Detection
+
+🤖 Computer Vision & Multimodal AI
+
+🧠 Large Language Models & AI Agents
+
+🌐 Full Stack AI Applications
+
+📚 Learning Advanced Deep Learning, Transformers & MLOps
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-Python • C/C++ • Java • SQL • JavaScript • TypeScript • HTML • CSS
+Python • C++ • C • JavaScript • SQL • HTML • CSS
 
 ### AI / Machine Learning
 
-TensorFlow • Keras • Scikit-learn • OpenCV • MediaPipe • NumPy • Pandas • Matplotlib • Google Earth Engine
+TensorFlow
 
-### LLM & AI
+Keras
 
-Groq • Llama 3 • Gemini • BERT • Prompt Engineering
+PyTorch (Learning)
 
-### Backend
+OpenCV
 
-FastAPI • Node.js • Express.js • Socket.io
+MediaPipe
 
-### Frontend
+Scikit-learn
 
-React • Vite • Tailwind CSS • Next.js
+NumPy
 
-### Database & Tools
+Pandas
 
-Git • GitHub • VS Code • Jupyter Notebook • Fusion 360 • ANSYS • AutoCAD
+Matplotlib
+
+CNNs
+
+Transfer Learning
+
+Computer Vision
+
+Natural Language Processing
+
+BERT
+
+LLMs
+
+Prompt Engineering
+
+AI Agents
+
+### Remote Sensing
+
+Google Earth Engine
+
+Sentinel-2
+
+Landsat
+
+Satellite Image Processing
+
+Geospatial Analysis
+
+### Web Development
+
+React
+
+Vite
+
+Node.js
+
+Express.js
+
+FastAPI
+
+REST APIs
+
+Socket.io
+
+Tailwind CSS
+
+### Databases
+
+MongoDB
+
+MySQL
+
+Firebase
+
+### Developer Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Postman
+
+Jupyter Notebook
+
+Google Colab
+
+Linux
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
-## 🌾 AgriOrbit — AI for Precision Agriculture
+## 👁 MotionQ
 
-Deep learning-based agricultural intelligence platform using multispectral satellite imagery and Google Earth Engine for paddy stubble-burning detection and environmental monitoring.
+AI-powered hands-free human-computer interaction system using facial gestures, blink detection and computer vision to improve digital accessibility.
 
-**Tech:** Python • TensorFlow • Google Earth Engine • Sentinel-2 • Remote Sensing
+**Tech**
 
----
+Python • OpenCV • MediaPipe • Computer Vision
 
-## 👁️ MotionQ — AI-Powered Assistive Technology
-
-Hands-free human-computer interaction system enabling cursor control using eye tracking, facial gestures, and blink detection to improve digital accessibility.
-
-🏆 Visionari'26 Winner • Copyright Registered • CIIA Evaluation Round
-
-**Tech:** Python • OpenCV • MediaPipe • PyAutoGUI
+🔗 https://motionvq.netlify.app/
 
 ---
 
-## 🌍 Cascade — Multi-Agent AI Civilization Simulator
+## 🌍 Cascade
 
-An AI-powered socio-economic simulation where autonomous LLM agents model the impact of automation, policy interventions, and economic disruptions using real-world datasets.
+A real-time AI civilization simulator where autonomous AI agents interact using real socio-economic datasets to study the impact of automation, unemployment and policy interventions.
 
-**Tech:** Groq • Llama 3 • React • Node.js • Socket.io
+**Tech**
 
----
-
-## 💭 Lumina — Emotion-Aware AI Companion
-
-An intelligent conversational system that combines BERT-based emotion understanding, conversational memory, and emotional pattern visualization to help users understand their mental well-being.
-
-🏅 HackCrux v2 Round 2 Shortlisted
-
-**Tech:** BERT • NLP • React • Generative AI
+Groq • Llama 3 • React • Node.js • Socket.io
 
 ---
 
-## 🏥 MedPredict — AI Healthcare Intelligence Platform
+## 💭 Lumina
 
-Predictive healthcare platform for emergency admission forecasting, ICU bed demand prediction, staff workload analysis, and intelligent hospital resource allocation.
+Emotion-aware conversational AI that combines BERT-based emotion recognition, conversational memory and adaptive responses to improve emotional self-awareness.
 
-**Tech:** FastAPI • LSTM • Prophet • Random Forest • React
+**Tech**
+
+BERT • NLP • LLMs • React
 
 ---
 
-## 🔐 ProofLedger — Blockchain Ad Verification
+## 🏥 MedPredict
 
-Blockchain-powered escrow platform for secure digital advertising, transparent transactions, and verifiable proof-of-delivery.
+AI-powered healthcare intelligence platform for predicting emergency admissions, ICU demand, staff workload and hospital resource allocation.
 
-**Tech:** Blockchain • Smart Contracts • React • Node.js
+**Tech**
+
+FastAPI • React • LSTM • Prophet • XGBoost • Random Forest
+
+---
+
+## 🔐 ProofLedger
+
+Blockchain-powered advertisement verification platform providing transparent campaign validation and decentralized proof of authenticity.
+
+**Tech**
+
+Blockchain • Smart Contracts • React • Node.js
 
 ---
 
 ## 📊 AuditFlow Insights
 
-AI-assisted audit intelligence platform for compliance monitoring, operational risk detection, and business analytics.
+AI-powered audit and compliance platform for intelligent anomaly detection, financial monitoring and business intelligence.
+
+**Tech**
+
+Machine Learning • FastAPI • Python
+
+---
+
+## 🛰 SpaceScope
+
+Interactive scientific visualization platform integrating NASA APIs with real-time planetary exploration.
+
+**Tech**
+
+React • Three.js • NASA APIs
+
+🔗 https://spacescope-nine.vercel.app/
 
 ---
 
 ## 🚓 PreCrime
 
-Machine learning-powered crime hotspot prediction system using spatiotemporal analytics and predictive modeling.
+Machine Learning system for crime hotspot prediction using spatial and temporal analytics.
 
----
+**Tech**
 
-## 🚀 SpaceScope
-
-Interactive platform integrating NASA APIs and 3D visualization to explore planetary data and scientific datasets.
+Python • Scikit-learn • Machine Learning
 
 ---
 
 ## 🎮 Code of Silence
 
-Interactive 3D mystery game developed for Renaissance TechFest, combining immersive storytelling, puzzle-solving, and modern web technologies.
+Interactive browser-based 3D murder mystery game developed for Renaissance TechFest.
+
+**Tech**
+
+React • Vite • JavaScript
+
+🔗 https://murder-mystery-phi.vercel.app/
 
 ---
 
-# Achievements
+## 🎨 Zirccle
 
-🏆 Winner — Visionari'26 (MotionQ)
+Startup website designed and developed in collaboration with the founding team, including branding, responsive UI, deployment and product launch assets.
+
+**Tech**
+
+React • HTML • CSS • JavaScript
+
+🔗 https://zirccle.vercel.app/
+
+---
+
+# 📄 Research
+
+### Deep Learning for Paddy Stubble Burning Detection using Satellite Imagery *(Manuscript in Preparation)*
+
+Conducting research on deep learning models for detecting agricultural residue burning using multispectral satellite imagery, Google Earth Engine and computer vision techniques.
+
+Research areas include:
+
+• Remote Sensing
+
+• Computer Vision
+
+• Deep Learning
+
+• Environmental AI
+
+• Precision Agriculture
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — VISIOना री '26 (MotionQ)
 
 🥈 Second Place — TechnoGenesis Project Poster Competition
 
-📄 MotionQ Copyright Registration
+🏅 Multiple National Hackathon Finalist
 
-📄 Letter of Appreciation (MotionQ)
-
-🛰️ AI/ML Intern — The AgriOrbit Technology
-
-📚 Research Paper in Progress — Deep Learning for Paddy Stubble Burning Detection using Satellite Imagery
+🏆 Built AI, Blockchain, Healthcare and Computer Vision projects under 24-hour hackathons
 
 ---
 
-# Currently Exploring
-
-* Efficient Deep Learning Models
-* Vision-Language Models
-* Geospatial AI
-* Multi-Agent Systems
-* Explainable AI
-* AI for Agriculture
-* AI for Healthcare
-* Applied AI Research
-
----
-
-# Connect With Me
+# 📫 Connect With Me
 
 💼 LinkedIn
+
 https://www.linkedin.com/in/khushi-rathod-13b913348/
 
 💻 GitHub
+
 https://github.com/khushihr-coder
 
 📧 Email
-[rathodkhu23@gmail.com](mailto:rathodkhu23@gmail.com)
 
-> *"Building AI that creates meaningful impact—one project, one experiment, and one research paper at a time."*
+rathodkhu23@gmail.com
 
+---
+
+<p align="center">
+
+💡 "Building AI that moves beyond experiments into products people can trust."
+
+</p>
