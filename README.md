@@ -102,7 +102,7 @@ An emotion-aware conversational AI that combines BERT-based emotion recognition,
 
 ---
 
-## 🏥 MedPredict https://lnkd.in/dQPEC9V8
+## 🏥 MedPredict https://medlink-frontend-mu.vercel.app/
 AI-powered healthcare intelligence platform for predicting emergency admissions, ICU demand, staff workload, and resource allocation.
 
 **Tech:** FastAPI • LSTM • Prophet • XGBoost
