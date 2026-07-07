@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="Khushi Rathod Banner" />
+  <img src="github-header-banner(1).png" alt="Khushi Rathod Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushi Rathod</h1>
