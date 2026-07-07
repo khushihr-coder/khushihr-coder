@@ -102,14 +102,14 @@ An emotion-aware conversational AI that combines BERT-based emotion recognition,
 
 ---
 
-## 🏥 MedPredict
+## 🏥 MedPredict https://lnkd.in/dQPEC9V8
 AI-powered healthcare intelligence platform for predicting emergency admissions, ICU demand, staff workload, and resource allocation.
 
 **Tech:** FastAPI • LSTM • Prophet • XGBoost
 
 ---
 
-## 🛰️ SpaceScope
+## 🛰️ SpaceScope https://spacescope-nine.vercel.app/
 Interactive scientific visualization platform integrating NASA APIs with real-time planetary exploration.
 
 ---
