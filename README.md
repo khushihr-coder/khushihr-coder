@@ -114,10 +114,6 @@ Interactive scientific visualization platform integrating NASA APIs with real-ti
 
 ---
 
-## 🎨 Zirccle
-Designed and developed the official website for an AI fashion startup, including responsive UI, deployment, branding assets, and launch-ready marketing pages.
-
----
 
 # 📄 Research
 
@@ -127,36 +123,7 @@ Conducting applied AI research on deep learning models for detecting agricultura
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushihr-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushihr-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=khushihr-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushihr-coder&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 Highlights
-
-🥇 Winner – VISIOना री '26 *(Verify before publishing if this is the correct award title.)*
-
-🥈 Second Place – TechnoGenesis Project Poster Competition
-
-📄 Research Manuscript in Preparation
-
-🌾 AI/ML Research Intern – AgriOrbit Technology
-
-🚀 Built AI-powered solutions across Healthcare, Agriculture, Accessibility, Blockchain, and Intelligent Systems
-
----
 
 # 📫 Connect With Me
 
