@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="github-header-banner(1).png" alt="Khushi Rathod Banner" />
+  <img src=https://raw.githubusercontent.com/khushihr-coder/khushihr-coder/main/github-header-banner%20(1).png alt="Khushi Rathod Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushi Rathod</h1>
-
-<h3 align="center">
-Building Intelligent Systems with AI • Computer Vision • Remote Sensing • Full-Stack Development
-</h3>
 
 <p align="center">
 Computer Engineering Student | AI/ML Research | Applied AI | Human-Centered Technology
